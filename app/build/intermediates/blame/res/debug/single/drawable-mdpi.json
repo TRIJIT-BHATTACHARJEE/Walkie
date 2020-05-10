@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stopwatch.png",
+        "source": "F:\\android project\\Regis\\app\\src\\main\\res\\drawable-mdpi\\stopwatch.png"
+    },
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\speed.png",
+        "source": "F:\\android project\\Regis\\app\\src\\main\\res\\drawable-mdpi\\speed.png"
+    },
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_gallery.png",
+        "source": "F:\\android project\\Regis\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_gallery.png"
+    },
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_send.png",
+        "source": "F:\\android project\\Regis\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_send.png"
+    },
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dist.png",
+        "source": "F:\\android project\\Regis\\app\\src\\main\\res\\drawable-mdpi\\dist.png"
+    },
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_manage.png",
+        "source": "F:\\android project\\Regis\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_manage.png"
+    },
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_camera.png",
+        "source": "F:\\android project\\Regis\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_camera.png"
+    },
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_share.png",
+        "source": "F:\\android project\\Regis\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_share.png"
+    },
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\cal.png",
+        "source": "F:\\android project\\Regis\\app\\src\\main\\res\\drawable-mdpi\\cal.png"
+    },
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_name.png",
+        "source": "F:\\android project\\Regis\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_slideshow.png",
+        "source": "F:\\android project\\Regis\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu_slideshow.png"
+    }
+]

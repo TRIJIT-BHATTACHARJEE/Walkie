@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="#33b5e5"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:scaleType="center">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+
+        android:layout_weight="1"
+        app:srcCompat="@mipmap/app_start"
+
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="150dp"
+        android:layout_height="55dp"
+        android:layout_centerInParent="true"
+        android:fontFamily="casual"
+        android:text="Walkie"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="36dp"
+        android:textStyle="bold"
+        android:id="@+id/textView6" />
+
+    <TextView
+        android:id="@+id/decription"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginTop="17dp"
+        android:fontFamily="casual"
+        android:text="Your Jogging Companion"
+        android:textColor="?attr/actionModeSplitBackground"
+        android:textColorHighlight="@android:color/holo_green_light"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        android:layout_below="@+id/textView6"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="16dp"
+        android:textAlignment="center"/>
+
+
+</RelativeLayout>

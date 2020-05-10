@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\forestroad.png",
+        "source": "F:\\android project\\Regis\\app\\src\\main\\res\\mipmap-mdpi\\forestroad.png"
+    },
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mosaic.png",
+        "source": "F:\\android project\\Regis\\app\\src\\main\\res\\mipmap-mdpi\\mosaic.png"
+    },
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\music.png",
+        "source": "F:\\android project\\Regis\\app\\src\\main\\res\\mipmap-mdpi\\music.png"
+    },
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\mountain_road.png",
+        "source": "F:\\android project\\Regis\\app\\src\\main\\res\\mipmap-mdpi\\mountain_road.png"
+    },
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\facebook_icon.png",
+        "source": "F:\\android project\\Regis\\app\\src\\main\\res\\mipmap-mdpi\\facebook_icon.png"
+    },
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "F:\\android project\\Regis\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\app_start.png",
+        "source": "F:\\android project\\Regis\\app\\src\\main\\res\\mipmap-mdpi\\app_start.png"
+    },
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\colorful_background.png",
+        "source": "F:\\android project\\Regis\\app\\src\\main\\res\\mipmap-mdpi\\colorful_background.png"
+    },
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\princep_ghat.png",
+        "source": "F:\\android project\\Regis\\app\\src\\main\\res\\mipmap-mdpi\\princep_ghat.png"
+    },
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\welcome.png",
+        "source": "F:\\android project\\Regis\\app\\src\\main\\res\\mipmap-mdpi\\welcome.png"
+    },
+    {
+        "merged": "F:\\android project\\Regis\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\whatsapp_icon.png",
+        "source": "F:\\android project\\Regis\\app\\src\\main\\res\\mipmap-mdpi\\whatsapp_icon.png"
+    }
+]

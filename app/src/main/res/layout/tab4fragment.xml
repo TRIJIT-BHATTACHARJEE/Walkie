@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#33b5e5"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:id="@+id/SCROLLER_ID"
+        android:layout_width="match_parent"
+        android:layout_height="375dp"
+        android:scrollbars="vertical"
+        android:fillViewport="true">
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:background="@color/common_google_signin_btn_text_light_disabled"
+            android:padding="40dp"
+            android:textSize="20dp" />
+    </ScrollView>
+
+    <Button
+        android:id="@+id/display"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onDisplayClick"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:text="VIEW SAVED RECORDS"
+        />
+
+    <Button
+        android:id="@+id/display2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onDisplayClick"
+        android:text="Clear all records" />
+</LinearLayout>
